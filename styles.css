@@ -1,0 +1,150 @@
+.img {
+  object-fit: cover;
+}
+
+.nav-brand-logo {
+  height: 30px;
+  width: 30px;
+  background-color: white;
+  padding: 2px;
+  border-radius: 2px;
+}
+
+.card {
+  margin-left: 0.1rem;
+  margin-right: 0.1rem;
+}
+
+.avatar-img {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.nav-icons i {
+  width: 20px;
+  height: 20px;
+}
+
+.amount::after {
+  color: #6c757d;
+  padding-left: 3px;
+  content:"0";
+  font-size: 0.6rem;
+  color: white;
+}
+
+.carousel-indicators {
+  position: static;
+}
+
+.carousel-indicators li {
+  background-color: #6c757d;
+  height: 2px;
+  margin-right: 0.5em;
+}
+
+
+.carousel-item-main img {
+  object-fit: cover;
+  width: 100%;
+}
+
+.highlights-img {
+  height: auto;
+}
+
+.old-price {
+  text-decoration: line-through;
+  font-size: 0.8rem;
+  margin: 0;
+}
+
+.introduction-text {
+  border-right: 1px solid #b9b9b9;
+  margin: 0; 
+}
+
+.gog-introduction {
+  font-weight: bold;
+  color: purple;
+}
+
+.introduction-img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+.news-img-container {
+  width: 100%;
+  padding: 0.2em;
+}
+
+.news-img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.news-img-main {
+  background: url("./assets/tile2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.news-img-second {
+  background: url("./assets/tile (31).jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+.news-img-third {
+  background: url("./assets/tile (30).jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+
+.footer-brand-logo {
+  background-color: white;
+}
+
+.footer-mid-section {
+  background-color: #6c757d;
+}
+
+.footer-active {
+  color: purple;
+  font-weight: bold;
+}
+
+.footer-download {
+  background-image: url("./assets/galaxy_button_bg.jpg");
+  width: 250px;
+  height: auto;
+  border-radius: 10px;
+  border: 2px solid rgb(115, 16, 161);
+  color: white;
+}
+
+.footer-icon {
+  filter: invert(51%) sepia(8%) saturate(499%) hue-rotate(167deg) brightness(86%) contrast(86%);
+}
+
+.footer-btn-subtitle {
+  font-size: 0.8rem;
+}
+
+.footer-bottom-1 {
+  position: relative;
+  bottom: -3px;
+}
+
+.footer-bottom-2 {
+  position: relative;
+  bottom: -2px;
+}
+
